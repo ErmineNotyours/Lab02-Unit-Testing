@@ -1,0 +1,17 @@
+C:\Users\Arthur\codefellows\401\lab-assignments\Lab02-Unit-Testing\ATM\ATMtest\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Arthur\codefellows\401\lab-assignments\Lab02-Unit-Testing\ATM\ATMtest\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Arthur\codefellows\401\lab-assignments\Lab02-Unit-Testing\ATM\ATMtest\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Arthur\codefellows\401\lab-assignments\Lab02-Unit-Testing\ATM\ATMtest\bin\Debug\netcoreapp2.0\ATMtest.deps.json
+C:\Users\Arthur\codefellows\401\lab-assignments\Lab02-Unit-Testing\ATM\ATMtest\bin\Debug\netcoreapp2.0\ATMtest.runtimeconfig.json
+C:\Users\Arthur\codefellows\401\lab-assignments\Lab02-Unit-Testing\ATM\ATMtest\bin\Debug\netcoreapp2.0\ATMtest.runtimeconfig.dev.json
+C:\Users\Arthur\codefellows\401\lab-assignments\Lab02-Unit-Testing\ATM\ATMtest\bin\Debug\netcoreapp2.0\ATMtest.dll
+C:\Users\Arthur\codefellows\401\lab-assignments\Lab02-Unit-Testing\ATM\ATMtest\bin\Debug\netcoreapp2.0\ATMtest.pdb
+C:\Users\Arthur\codefellows\401\lab-assignments\Lab02-Unit-Testing\ATM\ATMtest\bin\Debug\netcoreapp2.0\ATM.dll
+C:\Users\Arthur\codefellows\401\lab-assignments\Lab02-Unit-Testing\ATM\ATMtest\bin\Debug\netcoreapp2.0\ATM.pdb
+C:\Users\Arthur\codefellows\401\lab-assignments\Lab02-Unit-Testing\ATM\ATMtest\obj\Debug\netcoreapp2.0\ATMtest.csprojResolveAssemblyReference.cache
+C:\Users\Arthur\codefellows\401\lab-assignments\Lab02-Unit-Testing\ATM\ATMtest\obj\Debug\netcoreapp2.0\ATMtest.csproj.CoreCompileInputs.cache
+C:\Users\Arthur\codefellows\401\lab-assignments\Lab02-Unit-Testing\ATM\ATMtest\obj\Debug\netcoreapp2.0\ATMtest.AssemblyInfoInputs.cache
+C:\Users\Arthur\codefellows\401\lab-assignments\Lab02-Unit-Testing\ATM\ATMtest\obj\Debug\netcoreapp2.0\ATMtest.AssemblyInfo.cs
+C:\Users\Arthur\codefellows\401\lab-assignments\Lab02-Unit-Testing\ATM\ATMtest\obj\Debug\netcoreapp2.0\ATMtest.csproj.CopyComplete
+C:\Users\Arthur\codefellows\401\lab-assignments\Lab02-Unit-Testing\ATM\ATMtest\obj\Debug\netcoreapp2.0\ATMtest.dll
+C:\Users\Arthur\codefellows\401\lab-assignments\Lab02-Unit-Testing\ATM\ATMtest\obj\Debug\netcoreapp2.0\ATMtest.pdb
